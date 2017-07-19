@@ -1,0 +1,8 @@
+uvloop==0.8.0
+click==6.7
+aiohttp==2.1.0
+aioredis==0.3.1
+paco==0.1.11
+ujson==1.35
+Fabric==1.13.2
+sanic==0.5.4
